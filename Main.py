@@ -15,7 +15,7 @@ class Stack:
 
     def push(self, data):
         if not self.is_full():
-            slef.items.append(data)
+            self.items.append(data)
 
     def pop(self):
         if not self.is_empty():
