@@ -16,7 +16,7 @@ class Stack:
 
     def pop(self):
         if not self.is_empty():
-            # Write code here
+            print("hii")
 
     def status(self):
         # Write code here
